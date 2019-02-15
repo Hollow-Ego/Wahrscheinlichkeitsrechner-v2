@@ -30,13 +30,13 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(WahrscheinlichkeitsrechnerMainForm));
             this.panelTopControl = new System.Windows.Forms.Panel();
+            this.buttonMinimize = new System.Windows.Forms.Button();
             this.buttonCloseApp = new System.Windows.Forms.Button();
             this.labelTitel = new System.Windows.Forms.Label();
             this.panelNavigation = new System.Windows.Forms.Panel();
             this.button1Treffer = new System.Windows.Forms.Button();
             this.buttonNVersuche = new System.Windows.Forms.Button();
             this.buttonLaengeN = new System.Windows.Forms.Button();
-            this.buttonMinimize = new System.Windows.Forms.Button();
             this.einTreffer1 = new Wahrscheinlichkeitsrechner_v2.einTreffer();
             this.nVersuche1 = new Wahrscheinlichkeitsrechner_v2.NVersuche();
             this.laengeNControl1 = new Wahrscheinlichkeitsrechner_v2.LaengeNControl();
@@ -57,6 +57,23 @@
             this.panelTopControl.Size = new System.Drawing.Size(800, 24);
             this.panelTopControl.TabIndex = 0;
             this.panelTopControl.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panelTopControl_MouseDown);
+            // 
+            // buttonMinimize
+            // 
+            this.buttonMinimize.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.buttonMinimize.Dock = System.Windows.Forms.DockStyle.Right;
+            this.buttonMinimize.FlatAppearance.BorderSize = 0;
+            this.buttonMinimize.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonMinimize.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.buttonMinimize.ForeColor = System.Drawing.Color.White;
+            this.buttonMinimize.Location = new System.Drawing.Point(758, 0);
+            this.buttonMinimize.Name = "buttonMinimize";
+            this.buttonMinimize.Size = new System.Drawing.Size(21, 24);
+            this.buttonMinimize.TabIndex = 4;
+            this.buttonMinimize.Text = "_";
+            this.buttonMinimize.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.buttonMinimize.UseVisualStyleBackColor = true;
+            this.buttonMinimize.Click += new System.EventHandler(this.buttonMinimize_Click);
             // 
             // buttonCloseApp
             // 
@@ -149,23 +166,6 @@
             this.buttonLaengeN.Text = "Länge n";
             this.buttonLaengeN.UseVisualStyleBackColor = false;
             this.buttonLaengeN.Click += new System.EventHandler(this.ButtonLaengeN_Click);
-            // 
-            // buttonMinimize
-            // 
-            this.buttonMinimize.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.buttonMinimize.Dock = System.Windows.Forms.DockStyle.Right;
-            this.buttonMinimize.FlatAppearance.BorderSize = 0;
-            this.buttonMinimize.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonMinimize.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonMinimize.ForeColor = System.Drawing.Color.White;
-            this.buttonMinimize.Location = new System.Drawing.Point(758, 0);
-            this.buttonMinimize.Name = "buttonMinimize";
-            this.buttonMinimize.Size = new System.Drawing.Size(21, 24);
-            this.buttonMinimize.TabIndex = 4;
-            this.buttonMinimize.Text = "_";
-            this.buttonMinimize.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.buttonMinimize.UseVisualStyleBackColor = true;
-            this.buttonMinimize.Click += new System.EventHandler(this.buttonMinimize_Click);
             // 
             // einTreffer1
             // 
