@@ -1,0 +1,13 @@
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\bin\Debug\Wahrscheinlichkeitsrechner v2.exe.config
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\bin\Debug\Wahrscheinlichkeitsrechner v2.exe
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\bin\Debug\Wahrscheinlichkeitsrechner v2.pdb
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\obj\Debug\Wahrscheinlichkeitsrechner v2.csprojAssemblyReference.cache
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\obj\Debug\Wahrscheinlichkeitsrechner_v2.Properties.Resources.resources
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\obj\Debug\Wahrscheinlichkeitsrechner v2.csproj.GenerateResource.cache
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\obj\Debug\Wahrscheinlichkeitsrechner v2.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\obj\Debug\Wahrscheinlichkeitsrechner v2.exe
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\obj\Debug\Wahrscheinlichkeitsrechner v2.pdb
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\obj\Debug\Wahrscheinlichkeitsrechner_v2.WahrscheinlichkeitsrechnerMainForm.resources
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\obj\Debug\Wahrscheinlichkeitsrechner_v2.LaengeNControl.resources
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\obj\Debug\Wahrscheinlichkeitsrechner_v2.NVersuche.resources
+C:\Users\Alexander\source\repos\Wahrscheinlichkeitsrechner v2\Wahrscheinlichkeitsrechner v2\obj\Debug\Wahrscheinlichkeitsrechner_v2.einTreffer.resources
